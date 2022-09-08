@@ -8,8 +8,8 @@ function compareTrue(value1, value2) {
 }
 
 //Desafio 2
-function calcArea() {
-  
+function calcArea(base, height) {
+  return ((base * height) / 2);
 }
  
 // Desafio 3
